@@ -7,6 +7,15 @@ body {
   line-height: 1.5;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: sans-serif;
+}
+
+
 a,
 a:link {
   color: rgb(14,31,65);
@@ -22,14 +31,6 @@ a:hover {
 
 a:active {
   color: rgb(245,188,78);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5 {
-  font-family: roboto;
 }
 
 header {
