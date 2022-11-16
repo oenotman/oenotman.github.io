@@ -40,12 +40,15 @@ header {
 }
 
 nav a {
-  color: rgb(255,252,112);
+  background-color: rgb(68,121,235,0.5);
+  content: 280px;
+  padding: 10px;
+  border: 2px dashed #222;
 }
 
 main {
   display: grid;
-  grid-template-columns: repeat(4, 2fr;
+  grid-template-columns: repeat(4, 1fr;
   grid-gap: 20px;
   max-width: 960px;
   margin: 0 auto;
