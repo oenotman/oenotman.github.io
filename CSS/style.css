@@ -13,7 +13,7 @@ h3,
 h4,
 h5 {
   font-family: sans-serif;
-  font-size: 25px;
+  font-size: 23px;
   color: hsl(242, 46%, 54%)
 }
 
@@ -37,7 +37,6 @@ a:active {
 
 header {
   color: rgb(68,121,235);
-  font-size: 30px;
 }
 
 nav a {
