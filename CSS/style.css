@@ -42,8 +42,9 @@ header {
 nav a {
   background-color: rgb(68,121,235,0.5);
   content: 280px;
-  padding: 10px;
-  border: 2px dashed #222;
+  padding: 8px (left), 8px (right);
+  border: 2px (left), 2px (right) #222;
+  total: 300px; 
 }
 
 main {
