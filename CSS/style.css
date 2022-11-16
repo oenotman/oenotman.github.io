@@ -41,7 +41,6 @@ header {
 
 nav a {
   #box {
-    box-sizing: border-box;
     width: 300px;
     background-color: rgb(68,121,235,0.5);
     content: 280px;
