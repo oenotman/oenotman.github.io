@@ -40,15 +40,12 @@ header {
 }
 
 nav a {
-  #box {
     width: 300px;
     background-color: rgb(68,121,235,0.5);
     content: 280px;
     padding: 8px (left), 8px (right);
     border: 2px (left), 2px (right) #222;
-    total: 300px;
- }
-}
+   }
 
 main {
   display: grid;
