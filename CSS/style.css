@@ -37,6 +37,13 @@ header {
 }
 
 nav a {
+  color: rgb(255,252,112);
+  box-sizing: border-box;
+  width: 300px;
+  content: 280px;
+  padding-left: 8px;
+  padding-right: 8px;
+
 }
 
 main {
@@ -53,11 +60,26 @@ section {
 }
 
 ul {
-  background-color: rgb(255, 252, 112);
+  background-color:;
   padding: 20px
 }
 
 #introduction {
   background-color: rgba(69,105,159,0.15);
   border: 1px dashed rgb(69,105,159);
+}
+
+#geography {
+  background-color: rgba(69,105,159.0.15);
+  border: 1px dashed rbg(69,105,159);
+}
+
+#government {
+  background-color: rgba(69,105,159.0.15);
+  border: 1px dashed rbg(69,105,159);
+}
+
+#economy {
+  background-color: rgba(69,105,159.0.15);
+  border: 1px dashed rbg(69,105,159);
 }
