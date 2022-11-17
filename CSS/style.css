@@ -54,13 +54,14 @@ main {
   grid-template-columns: repeat(4, 2fr);
   grid-gap: 15px;
   max-width: 1060px;
-  margin: 0 auto;
+  margin: 2px auto;
 }
 
 section {
   background-color: rgb(255, 252, 112, 0.5);
   padding: 10px;
-  border: 2px #5754c0; 
+  border: 2px #5754c0;
+  margin: 2px auto;
 }
 
 #introduction {
