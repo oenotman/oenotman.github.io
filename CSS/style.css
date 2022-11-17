@@ -54,14 +54,14 @@ nav {
 main {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
-  grid-gap: 20px;
+  grid-gap: 15px;
   max-width: 2060px;
   margin: 0 auto;
 }
 
 section {
   background-color: rgb(255, 252, 112, 0.5);
-  padding: 20px;
+  padding: 10px;
   border: 2px solid #5754c0;
   margin: 2px auto;
 }
