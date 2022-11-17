@@ -17,10 +17,6 @@ h5 {
   color: hsl(242, 46%, 54%);
 }
 
-h2 {
-  margin-top: 2;
-}
-
 
 a,
 a:link {
@@ -59,7 +55,7 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
   grid-gap: 15px;
-  max-width: 2060px;
+  max-width: 2080px;
   margin: 0 auto;
 }
 
