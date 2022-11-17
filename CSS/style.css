@@ -2,7 +2,7 @@
 
 body {
   font-family: "Sono", "Cardo", "Noto Serif", sans-serif;
-  font size: 18px;
+  font size: 16px;
   color: #222;
   line-height: 1.5;
 }
@@ -53,7 +53,7 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
   grid-gap: 15px;
-  max-width: 1060px;
+  max-width: 960px;
   margin: 2px auto;
 }
 
@@ -62,24 +62,4 @@ section {
   padding: 20px;
   border: 2px #5754c0;
   margin: 2px auto;
-}
-
-#introduction {
-  background-color: rgba(69,105,159,0.15);
-  border: 1px dashed rgb(69,105,159);
-}
-
-#geography {
-  background-color: rgba(69,105,159.0.15);
-  border: 1px dashed rbg(69,105,159);
-}
-
-#government {
-  background-color: rgba(69,105,159.0.15);
-  border: 1px dashed rbg(69,105,159);
-}
-
-#economy {
-  background-color: rgba(69,105,159.0.15);
-  border: 1px dashed rbg(69,105,159);
 }
