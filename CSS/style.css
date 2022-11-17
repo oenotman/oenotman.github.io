@@ -17,6 +17,10 @@ h5 {
   color: hsl(242, 46%, 54%);
 }
 
+h2 {
+  margin-top: 2;
+}
+
 
 a,
 a:link {
