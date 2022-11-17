@@ -53,7 +53,7 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
   grid-gap: 15px;
-  max-width: 980px;
+  max-width: 1020px;
   margin: 0 auto;
 }
 
