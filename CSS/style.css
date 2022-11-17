@@ -39,7 +39,7 @@ header {
   color: rgb(68,121,235);
 }
 
-.nav a {
+nav a {
     box-sizing: border-box;
     background-color: rgb(68,121,235,0.5);
     width: 300px;
