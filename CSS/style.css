@@ -60,6 +60,6 @@ main {
 section {
   background-color: rgb(255, 252, 112, 0.5);
   padding: 20px;
-  border: 2px #5754c0;
+  border: 2px dashed #5754c0;
   margin: 2px auto;
 }
