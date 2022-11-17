@@ -53,8 +53,8 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
   grid-gap: 20px;
-  max-width: 960px;
-  margin: 2px auto;
+  max-width: 2060px;
+  margin: 0 auto;
 }
 
 section {
