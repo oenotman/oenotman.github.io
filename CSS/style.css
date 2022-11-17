@@ -53,9 +53,9 @@ nav {
 
 main {
   display: grid;
-  grid-template-columns: repeat(4, 2fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 15px;
-  max-width: 2080px;
+  max-width: 2060px;
   margin: 0 auto;
 }
 
