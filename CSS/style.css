@@ -49,7 +49,7 @@ nav {
 main {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
-  grid-gap: 15px;
+  grid-gap: 10px;
   max-width: 2060px;
   margin: 0 auto;
 }
