@@ -40,11 +40,11 @@ header {
 nav {
     box-sizing: border-box;
     background-color: rgb(68,121,235,0.5);
-    width: 200px;
-    content: 200px;
+    width: 300px;
+    content: 300px;
     padding: 8px, 8px;
     border: 8px solid #222;
-    total: 220px;
+    total: 320px;
    }
 
 
