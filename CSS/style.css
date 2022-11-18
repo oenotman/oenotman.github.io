@@ -15,7 +15,6 @@ h3 {
   color: hsl(242, 46%, 54%);
 }
 
-
 a,
 a:link {
   color: rgb(14,31,65);
@@ -47,13 +46,11 @@ nav {
     total: 320px;
    }
 
-
-
 main {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
   grid-gap: 15px;
-  max-width: 960px;
+  max-width: 2060px;
   margin: 0 auto;
 }
 
