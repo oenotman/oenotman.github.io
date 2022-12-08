@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 body {
   font-family: "Roboto", "Helvetica", "Verdana" sans-serif;
@@ -50,7 +50,7 @@ nav {
 main {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 10px;
+  grid-gap: 5px;
   max-width: 960px;
   margin: 0 auto;
 }
