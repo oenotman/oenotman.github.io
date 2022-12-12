@@ -5,7 +5,7 @@ body {
   grid-template-columns: 1fr;
   grid-gap: 20px;
   max-width: 960px;
-  border: 7px solid hsl(242, 46%, 54%);
+  border: 7px solid rgb(68, 121, 235);
   padding: 5px, 5px;
   margin: 0 auto;
   font-family: "Roboto", "Helvetica", "Verdana", sans-serif;
@@ -50,6 +50,6 @@ nav {
     width: 300px;
     content: 300px;
     padding: 8px, 8px;
-    border: 6px solid hsl(242, 46%, 54%);
+    border: 6px solid rgb(68, 121, 235);
     total: 320px;
    }
