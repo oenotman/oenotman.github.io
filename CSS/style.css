@@ -47,9 +47,9 @@ header {
 nav {
     box-sizing: border-box;
     background-color: rgb(68, 121, 235, 0.5);
-    width: 300px;
-    content: 300px;
-    padding: 8px, 8px;
+    width: 250px;
+    content: 250px;
+    padding: 6px, 6px;
     border: 4px solid rgb(68, 121, 235);
-    total: 320px;
+    total: 270px;
    }
