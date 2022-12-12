@@ -39,14 +39,14 @@ a:active {
 }
 
 header {
-  color: #5754c0;
+  color: rgb(68, 121, 235);
   font-family: "Verdana", "Helvetica", sans-serif;
   font-size: 33px;
 }
 
 nav {
     box-sizing: border-box;
-    background-color: rgb(233, 80, 58, 0.5);
+    background-color: rgb(68, 121, 235, 0.5);
     width: 300px;
     content: 300px;
     padding: 8px, 8px;
