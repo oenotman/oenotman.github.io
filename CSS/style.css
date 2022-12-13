@@ -3,9 +3,9 @@
 body {
   display: grid;
   grid-template-columns: 1fr;
-  grid-gap: 20px;
-  max-width: 930px;
-  border: 8px solid rgb(68, 121, 235);
+  grid-gap: 10px;
+  max-width: 960px;
+  border: 7px solid rgb(68, 121, 235);
   padding: 5px, 5px;
   margin: 0 auto;
   font-family: "Roboto", "Helvetica", "Verdana", sans-serif;
