@@ -6,6 +6,7 @@ body {
   grid-gap: 10px;
   max-width: 960px;
   border: 7px solid rgb(68, 121, 235);
+  background-color: rgb(68, 121, 235, 0.3);
   padding: 5px, 5px;
   margin: 0 auto;
   font-family: "Roboto", "Helvetica", "Verdana", sans-serif;
@@ -46,7 +47,7 @@ header {
 
 nav {
     box-sizing: border-box;
-    background-color: rgb(68, 121, 235, 0.3);
+    background-color: rgb(233, 80, 58, 0.5);
     width: 230px;
     content: 230px;
     padding: 4px, 4px;
